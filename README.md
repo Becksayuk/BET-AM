@@ -1,2 +1,2 @@
 # BET-AM
-Game that allows youto bet with coins
+Game that allows you to bet with coins
